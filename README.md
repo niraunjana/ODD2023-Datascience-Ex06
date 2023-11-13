@@ -124,4 +124,4 @@ plt.show()
 ![image](https://github.com/niraunjana/ODD2023-Datascience-Ex06/assets/119395610/5681175c-869a-43f0-ac9e-20ca6a055b10)
 
 ### RESULT:
-Thus,Feature Transformation is performed on the given dataset.
+Thus, Feature Transformation is performed on the given dataset.
