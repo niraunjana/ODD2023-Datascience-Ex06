@@ -20,6 +20,7 @@ Step4: Print the transformed features.
 Developed by : Niraunjana Gayathri G R
 Register No : 212222230096
 ```
+```
 import pandas as pd
 from scipy import stats
 import numpy as np
@@ -100,6 +101,8 @@ qt = QuantileTransformer(output_distribution = 'normal')
 df5['Moderate Negative Skew_2'] = pd.DataFrame(qt.fit_transform(df5[['Moderate Negative Skew']]))
 sm.qqplot(df5['Moderate Negative Skew_2'],line='45')
 plt.show()
+```
 
 ### OUTPUT
 ![image](https://github.com/niraunjana/ODD2023-Datascience-Ex06/assets/119395610/b0f6a4e7-5a95-4b94-917c-d97001242ecf)
+![image](https://github.com/niraunjana/ODD2023-Datascience-Ex06/assets/119395610/1f00a6f4-dbf8-4afd-8466-6811ff050665)
