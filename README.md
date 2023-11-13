@@ -106,3 +106,4 @@ plt.show()
 ### OUTPUT
 ![image](https://github.com/niraunjana/ODD2023-Datascience-Ex06/assets/119395610/b0f6a4e7-5a95-4b94-917c-d97001242ecf)
 ![image](https://github.com/niraunjana/ODD2023-Datascience-Ex06/assets/119395610/1f00a6f4-dbf8-4afd-8466-6811ff050665)
+![image](https://github.com/niraunjana/ODD2023-Datascience-Ex06/assets/119395610/0ba0ce3e-f6c9-4957-a37f-75a8dca4365f)
