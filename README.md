@@ -113,3 +113,15 @@ plt.show()
 ![image](https://github.com/niraunjana/ODD2023-Datascience-Ex06/assets/119395610/9fbb2a52-b803-4a5f-922d-9d856b123136)
 ![image](https://github.com/niraunjana/ODD2023-Datascience-Ex06/assets/119395610/f2bcc578-483c-42b5-8a98-b8ab3463d416)
 ![image](https://github.com/niraunjana/ODD2023-Datascience-Ex06/assets/119395610/be58e209-478f-458a-92aa-4631c79b07f0)
+![image](https://github.com/niraunjana/ODD2023-Datascience-Ex06/assets/119395610/ed76215e-11ad-489a-ab0b-70c35479cf83)
+![image](https://github.com/niraunjana/ODD2023-Datascience-Ex06/assets/119395610/4ed38d5e-1697-422b-a919-924bab4812d1)
+![image](https://github.com/niraunjana/ODD2023-Datascience-Ex06/assets/119395610/ff7f092c-6baf-43c5-bc1e-e681ff5ee518)
+![image](https://github.com/niraunjana/ODD2023-Datascience-Ex06/assets/119395610/422fb3b9-a9ab-444f-ad0c-9da24accd7b4)
+![image](https://github.com/niraunjana/ODD2023-Datascience-Ex06/assets/119395610/32a70a89-dd20-4e4b-b262-a70015210349)
+![image](https://github.com/niraunjana/ODD2023-Datascience-Ex06/assets/119395610/f7c95bd2-2883-4ce6-88bb-af550b3407e4)
+![image](https://github.com/niraunjana/ODD2023-Datascience-Ex06/assets/119395610/13aaef61-94b9-495d-9d07-f9dba37a38f7)
+![image](https://github.com/niraunjana/ODD2023-Datascience-Ex06/assets/119395610/98e619da-9760-4782-85e4-3fad77180595)
+![image](https://github.com/niraunjana/ODD2023-Datascience-Ex06/assets/119395610/5681175c-869a-43f0-ac9e-20ca6a055b10)
+
+### RESULT:
+Thus,Feature Transformation is performed on the given dataset.
